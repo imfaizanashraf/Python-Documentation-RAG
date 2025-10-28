@@ -1,0 +1,27 @@
+# Core LangChain ecosystem (compatible versions)
+# LangChain ecosystem (mutually compatible)
+# --- LangChain Ecosystem ---
+# Core LangChain packages (compatible versions)
+# LangChain ecosystem (compatible versions)
+langchain==0.2.15
+langchain-core==0.2.36
+langchain-community==0.2.14
+langchain-huggingface==0.0.3
+
+# Embedding and NLP models
+sentence-transformers==3.0.1
+transformers==4.42.3
+torch==2.3.0
+faiss-cpu==1.8.0
+
+# Web interface
+streamlit==1.34.0
+
+# Utilities
+beautifulsoup4==4.12.2
+requests==2.31.0
+python-dotenv==1.0.0
+PyYAML==6.0.3
+SQLAlchemy==2.0.44
+aiohttp==3.13.1
+async-timeout==4.0.3
